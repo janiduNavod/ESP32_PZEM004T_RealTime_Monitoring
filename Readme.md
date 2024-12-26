@@ -25,7 +25,7 @@ Connect the ESP32 and PZEM-004T as follows:
 - Device energy efficiency comparison
 - Energy logging for smart home systems
 
-##CSV Data Logging
+## CSV Data Logging
 The script writes the following parameters to a CSV file:
 
 - Voltage (V)
