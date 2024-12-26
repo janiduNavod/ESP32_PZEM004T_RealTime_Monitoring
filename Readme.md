@@ -33,4 +33,5 @@ The script writes the following parameters to a CSV file:
 - Power (W)
 - Energy (Wh)
 
+![image](https://github.com/user-attachments/assets/2294e92d-85c3-438e-b07f-d74a50244501)
 
